@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sizhe An / Ph.D. student"
+title                    : "Sizhe An / Research Scientist"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sizhe An"
   avatar           : "profile.jpg"
-  bio              : "Final-year Ph.D. candidate in ML/CV/Smart Health"
+  bio              : "Research Scientist in ML/CV"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
