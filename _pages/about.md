@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a final-year Ph.D. candidate at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ) and I also work closely with [Prof. Yin Li](https://www.biostat.wisc.edu/~yli/). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). During my Ph.D. study, I work as a research intern on computer vision field at [Meta (Reality Labs)](https://about.meta.com/realitylabs/), [TikTok](https://www.tiktok.com) and [Ambarella](https://www.ambarella.com).
+I am a reseach scientist at Meta (Reality Labs). I obtained my Ph.D. in Computer Engineering from University of Wisconsin-Madison in 2023 (Advisor: [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ)). I also work closely with [Prof. Yin Li](https://www.biostat.wisc.edu/~yli/). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). During my Ph.D. study, I work as a research intern on computer vision field at [Meta (Reality Labs)](https://about.meta.com/realitylabs/), [TikTok](https://www.tiktok.com) and [Ambarella](https://www.ambarella.com).
 
 My research interests include ML/CV, human activity recognition (HAR), 3D human pose estimation (HPE), multi-modal sensing, NeRF, generative models, and smart healthcare algorithms.
 
@@ -17,6 +17,8 @@ Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are in
 
 News
 ------
+- September 2023: Joined Meta (Reality Labs) as a research scientist!
+- August 2023: Defended my Ph.D.! What an exciting journey!
 - February 2022: Two papers accepted to **CVPR 2023** ([PanoHead](https://sizhean.github.io/panohead) ![stars](https://img.shields.io/github/stars/sizhean/panohead.svg) and [Panic-3D](https://github.com/ShuhongChen/panic3d-anime-reconstruction) ![stars](https://img.shields.io/github/stars/ShuhongChen/panic3d-anime-reconstruction.svg) ) and one paper accepted to **DAC 2023**!
 - December 2022: Started research internship in Meta Reality Labs working on NeRF for device generalization!
 - September 2022: mRI (multi-modal human pose estimation dataset) got accepted in **NeurIPS 2022**! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
